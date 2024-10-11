@@ -6,8 +6,8 @@
   "dependencies": {
     "bcrypt": "^3.0.6",
     "ejs": "^2.7.1",
-    "express": "^4.17.1",
-    "express-session": "^1.16.2",
+    "express": "^4.21.1",
+    "express-session": "^1.18.1",
     "mongodb": "^3.3.2"
   },
   "devDependencies": {},
